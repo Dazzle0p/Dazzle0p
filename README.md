@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Jha</h1>
-<h3 align="center">Detail Orienterd MERN Stack Developer</h3>
+<h3 align="center">Detail Oriented MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle0p&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle0p" /> </p>
 About Me:
